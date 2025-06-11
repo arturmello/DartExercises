@@ -1,5 +1,5 @@
 /*
-2) Mostrando nomes no terminal
+10) Mostrando nomes no terminal
 Crie uma lista de nomes que é exibida no terminal com o for. Os nomes podem ser: Ana, João e Maria.
 
 O resultado esperado no terminal é o seguinte:
